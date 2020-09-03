@@ -59,6 +59,13 @@ pip install <library-name>
 
 
 ## Usage
+
+The reader can be configured on the `configy.py` file. The key points are:
+```
+format_type = Format.<format>
+```
+Where `<format>` can be URL, TEXT or PDF depending of the type of text that you want to read.
+note: URL corresponds to the url of a wikipedia page
 <!-- how to use the project, add code fragments if needed -->
 
 
