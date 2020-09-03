@@ -1,7 +1,7 @@
 # Speed reader
 
 [//]: # "References"
-[contact-albert]: albgarjim1@gmail.com
+[contact-alberto]: albgarjim1@gmail.com
 [reader-gif]: ./docs/reader-gif.gif
 
 Toy speedreader made with python
